@@ -1,6 +1,6 @@
 ![logo](_media/logo.png)
 
-# docsify
+# 公司名称
 
 > A magical documentation site generator.
 
@@ -8,5 +8,5 @@
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/sishenhei7)
-[Get Started](#headline)
+[杨舟的github](https://github.com/sishenhei7)
+[快速开始](#headline)

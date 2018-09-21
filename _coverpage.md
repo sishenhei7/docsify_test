@@ -1,6 +1,6 @@
-![logo](_media/logo.png)
 
-# 公司名称
+
+# 文档名称
 
 > A magical documentation site generator.
 
